@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291550471183",
+    "project_id": "bulkmessage-2c7c1",
+    "storage_bucket": "bulkmessage-2c7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291550471183:android:0485baa08ec3471aa1ef7a",
+        "android_client_info": {
+          "package_name": "com.example.bulkmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291550471183-69eg9frfpq7r2hvj4s7v83gn3c63mcpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpxogQM8XBraupjt38KZNUnFP1ibDBx0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291550471183-69eg9frfpq7r2hvj4s7v83gn3c63mcpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
